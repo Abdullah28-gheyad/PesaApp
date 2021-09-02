@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "263110166590",
+    "project_id": "pesaapp-5311a",
+    "storage_bucket": "pesaapp-5311a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263110166590:android:2b0ee9abe22933be2c296f",
+        "android_client_info": {
+          "package_name": "com.example.pesaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263110166590-c9c650srm5brekv0p815vrdbo0ndrkdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pesaapp",
+            "certificate_hash": "f117cbd797b50eb651787e5590473224b6e49b7e"
+          }
+        },
+        {
+          "client_id": "263110166590-v08a93ia1qaqpb2i63o7ma14bct0v6jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Nm2pAMKgFcFV0VrKrd8vv4iaurClrJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263110166590-v08a93ia1qaqpb2i63o7ma14bct0v6jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
